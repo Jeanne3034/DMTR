@@ -1,8 +1,7 @@
 "Il pleut ce matin."
 "Metz, c'est compliqué."
 "Bienvenue à tous."
-<<<<<<< HEAD
 "toto"
 "titi"
 "vive le vent"
-
+"vive le vent d'hiver"
