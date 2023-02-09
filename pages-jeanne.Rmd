@@ -1,5 +1,9 @@
 "Il pleut ce matin."
 "Metz, c'est compliqué."
 "Bienvenue à tous."
+"toto"
+"titi"
 "vive le vent"
 "je n'aime pas le vent"
+"vive le vent d'hiver"
+
